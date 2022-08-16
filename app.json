@@ -30,20 +30,25 @@
           "value": "True"
       },
       "API_HASH": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "Get this value from https://my.telegram.org",
+          "value": "True"
       },
       "BOT_TOKEN": {
-          "description": "Get this value from @BotFather"
+          "description": "Get this value from @BotFather",
+          "value": "True"
       },
       "BIN_CHANNEL": {
-          "description": "The BIN Channel ID. Read the readme for more info about this var"
+          "description": "The BIN Channel ID. Read the readme for more info about this var",
+          "value": "True"
           
       },
       "DATABASE_URL": {
-          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe"
+          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe",
+          "value": "True"
       },
       "OWNER_ID": {
-          "description": "Your Telegram User ID  like 1234509"
+          "description": "Your Telegram User ID  like 1234509",
+          "value": "True"
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
@@ -56,7 +61,8 @@
           
       },
       "OWNER_USERNAME": {
-          "description": "Enter your username without @  example  adarsh."
+          "description": "Enter your username without @  example  adarsh.",
+          "value": "True"
       },
       "SLEEP_THRESHOLD": {
           "description": "Floodwait Sleep timer. Read the readme for more info about this var",
